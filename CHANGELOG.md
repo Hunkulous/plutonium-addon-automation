@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.9.0
+
+> 2026-07-06
+
+- Migrated to Foundry VTT v14 (minimum "14", verified "14.364"; requires D&D 5e 5.3.0+)
+- Removed the *Times Up* module dependency; active-effect special-duration expiry is now handled by *DAE* on Foundry v14
+
 ## 0.8.4
 
 > 2026-05-11

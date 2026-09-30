@@ -40,6 +40,9 @@ Besides *Plutonium* itself, *Plutonium Addon: Automation* **requires**:
 - [Dynamic Active Effects](https://foundryvtt.com/packages/dae) (DAE)
 - [Midi QoL](https://foundryvtt.com/packages/midi-qol)
 
+> [!NOTE]
+> Active-effect special-duration expiry (e.g. effects that end at the end of a turn, or when a save is rolled) is handled by *DAE* on Foundry v14. This was previously provided by [Times Up](https://foundryvtt.com/packages/times-up), which is no longer required.
+
 Some specific automations require one or more additional modules:
 - [Active-Auras](https://foundryvtt.com/packages/ActiveAuras)
 

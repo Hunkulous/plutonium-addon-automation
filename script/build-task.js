@@ -46,8 +46,8 @@ export const buildTask = async (
 		download: `https://github.com/TheGiddyLimit/plutonium-addon-automation/releases/download/v${packageJson.version}/plutonium-addon-automation.zip`,
 		changelog: "https://raw.githubusercontent.com/TheGiddyLimit/plutonium-addon-automation/master/CHANGELOG.md",
 		compatibility: {
-			minimum: "13",
-			verified: "13.347",
+			minimum: "14",
+			verified: "14.364",
 		},
 		url: "https://www.patreon.com/Giddy5e",
 		bugs: "https://discord.gg/nGvRCDs",
@@ -65,7 +65,7 @@ export const buildTask = async (
 					id: "dnd5e",
 					type: "system",
 					compatibility: {
-						minimum: "5.1.0",
+						minimum: "5.3.0",
 						maximum: "5.999.999",
 					},
 				},
